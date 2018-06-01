@@ -1,0 +1,11 @@
+F:\Programación\Proyecto\Proyecto a 3 capas miscelánea MAFE (Correción)\Proyecto a 3 capas miscelánea MAFE (Correción)\bin\Debug\Proyecto a 3 capas miscelánea MAFE (Correción).dll
+F:\Programación\Proyecto\Proyecto a 3 capas miscelánea MAFE (Correción)\Proyecto a 3 capas miscelánea MAFE (Correción)\bin\Debug\Proyecto a 3 capas miscelánea MAFE (Correción).pdb
+F:\Programación\Proyecto\Proyecto a 3 capas miscelánea MAFE (Correción)\Proyecto a 3 capas miscelánea MAFE (Correción)\obj\Debug\Conexion.csprojResolveAssemblyReference.cache
+F:\Programación\Proyecto\Proyecto a 3 capas miscelánea MAFE (Correción)\Proyecto a 3 capas miscelánea MAFE (Correción)\obj\Debug\Proyecto a 3 capas miscelánea MAFE (Correción).dll
+F:\Programación\Proyecto\Proyecto a 3 capas miscelánea MAFE (Correción)\Proyecto a 3 capas miscelánea MAFE (Correción)\obj\Debug\Proyecto a 3 capas miscelánea MAFE (Correción).pdb
+C:\Users\Luisa\Desktop\Proyecto a 3 capas miscelánea MAFE (Correción)\Proyecto a 3 capas miscelánea MAFE (Correción)\bin\Debug\Proyecto a 3 capas miscelánea MAFE (Correción).dll
+C:\Users\Luisa\Desktop\Proyecto a 3 capas miscelánea MAFE (Correción)\Proyecto a 3 capas miscelánea MAFE (Correción)\bin\Debug\Proyecto a 3 capas miscelánea MAFE (Correción).pdb
+C:\Users\Luisa\Desktop\Proyecto a 3 capas miscelánea MAFE (Correción)\Proyecto a 3 capas miscelánea MAFE (Correción)\bin\Debug\Proyecto a 3 capas miscelánea MAFE (Correción).dll.CodeAnalysisLog.xml
+C:\Users\Luisa\Desktop\Proyecto a 3 capas miscelánea MAFE (Correción)\Proyecto a 3 capas miscelánea MAFE (Correción)\bin\Debug\Proyecto a 3 capas miscelánea MAFE (Correción).dll.lastcodeanalysissucceeded
+C:\Users\Luisa\Desktop\Proyecto a 3 capas miscelánea MAFE (Correción)\Proyecto a 3 capas miscelánea MAFE (Correción)\obj\Debug\Proyecto a 3 capas miscelánea MAFE (Correción).dll
+C:\Users\Luisa\Desktop\Proyecto a 3 capas miscelánea MAFE (Correción)\Proyecto a 3 capas miscelánea MAFE (Correción)\obj\Debug\Proyecto a 3 capas miscelánea MAFE (Correción).pdb

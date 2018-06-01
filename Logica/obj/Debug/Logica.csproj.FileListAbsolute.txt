@@ -1,0 +1,6 @@
+C:\Users\Luisa\Desktop\Proyecto a 3 capas miscelánea MAFE (Correción)\Logica\bin\Debug\Logica.dll
+C:\Users\Luisa\Desktop\Proyecto a 3 capas miscelánea MAFE (Correción)\Logica\bin\Debug\Logica.pdb
+C:\Users\Luisa\Desktop\Proyecto a 3 capas miscelánea MAFE (Correción)\Logica\bin\Debug\Logica.dll.CodeAnalysisLog.xml
+C:\Users\Luisa\Desktop\Proyecto a 3 capas miscelánea MAFE (Correción)\Logica\bin\Debug\Logica.dll.lastcodeanalysissucceeded
+C:\Users\Luisa\Desktop\Proyecto a 3 capas miscelánea MAFE (Correción)\Logica\obj\Debug\Logica.dll
+C:\Users\Luisa\Desktop\Proyecto a 3 capas miscelánea MAFE (Correción)\Logica\obj\Debug\Logica.pdb
